@@ -13,7 +13,7 @@ Ensure you have Python version **3.10** or greater installed on your system.
 
 Navigate to this repository's project directory and install the necessary dependencies:
 
-\`\`\`bash
+\`\`\`
 pip install -r requirements.txt
 \`\`\`
 
@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 Once all the dependencies are installed, run:
 
-\`\`\`bash
+\`\`\`
 pip install .
 \`\`\`
 
@@ -33,7 +33,7 @@ Navigate to the project directory you want to dockerize.
 
 To generate a Dockerfile with the appropriate configuration for your project, simply run:
 
-\`\`\`bash
+\`\`\`
 rakutengenie
 \`\`\`
 
@@ -49,7 +49,7 @@ Open this repository in your editor.
 
 To run the CLI, execute:
 
-\`\`\`bash
+\`\`\`
 python rakutengenie/cli.py
 \`\`\`
 
@@ -57,7 +57,7 @@ python rakutengenie/cli.py
 
 To initialize a Dockerfile setup, run:
 
-\`\`\`bash
+\`\`\`
 python rakutengenie/cli.py init
 \`\`\`
 
@@ -65,7 +65,7 @@ python rakutengenie/cli.py init
 
 For help and guidance on using Rakuten Genie, use:
 
-\`\`\`bash
+\`\`\`
 python rakutengenie/cli.py --help
 \`\`\`
 
