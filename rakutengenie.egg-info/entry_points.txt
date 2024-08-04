@@ -1,0 +1,2 @@
+[console_scripts]
+rakutengenie = rakutengenie.main:main

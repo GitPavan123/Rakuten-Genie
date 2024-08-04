@@ -1,0 +1,11 @@
+setup.py
+rakutengenie/__init__.py
+rakutengenie/cli.py
+rakutengenie/main.py
+rakutengenie/utils.py
+rakutengenie.egg-info/PKG-INFO
+rakutengenie.egg-info/SOURCES.txt
+rakutengenie.egg-info/dependency_links.txt
+rakutengenie.egg-info/entry_points.txt
+rakutengenie.egg-info/requires.txt
+rakutengenie.egg-info/top_level.txt
